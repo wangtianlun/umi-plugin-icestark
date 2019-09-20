@@ -12,7 +12,7 @@ Configure in `.umirc.js`,
 ```js
 export default {
   plugins: [
-    ['umi-plugin-umi-plugin-icestark', options],
+    ['umi-plugin-icestark', options],
   ],
 }
 ```
